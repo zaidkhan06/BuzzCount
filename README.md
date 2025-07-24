@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # BuzzCount
-eact Counter App with Glassmorphism and Toasts
+React Counter App with Glassmorphism and Toasts
 =======
 # React + Vite
 
