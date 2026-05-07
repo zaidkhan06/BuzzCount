@@ -51,7 +51,7 @@ function App() {
 
   const reset = () => {
     setCount(0);
-    showCustomToast("✅ Counter Reset!");
+    showCustomToast("Counter Reset!");
   };
 
   return (
